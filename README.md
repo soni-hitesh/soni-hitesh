@@ -12,5 +12,7 @@ soni-hitesh/soni-hitesh is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/-soni-hitesh/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:soni21hitesh@gmail.com)  
+
 
 
